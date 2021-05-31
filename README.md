@@ -6,4 +6,8 @@
 
 ## Approach 
 * Created a Image Scraper to scrape Image and to increase this number furthur, tried data augmentation techniques to get enough data to train neural network.
+* Trained on different state of art CNN networks.
+
+## Result
+Achieved accuracy of 0.89
 
